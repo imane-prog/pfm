@@ -7,7 +7,7 @@ Ce projet est une plateforme de gestion scolaire développée dans le cadre du *
 ## 👥 Équipe du Projet
 Ce projet est une collaboration entre :
 
-* **Imane Rhanebou** : [https://github.com/imane-prog/pfm](https://github.com/imane-prog/pfm)
+* **Imane Rhanebou** : [https://github.com/imane-prog/pfm]([https://github.com/imane-prog/pfm])
 * **Imane Ranbok** : [https://github.com/imaneranbok-afk/project_PreSkool](https://github.com/imaneranbok-afk/project_PreSkool)
 
 ---
